@@ -1,6 +1,6 @@
 # 💌 Zoya – AI-Powered Gmail Assistant
 
-Meet **Zoya** – your intelligent, polite, and professional email assistant powered by **n8n**, **LangChain**, and **Groq's LLaMA 3**. Designed for **Sir Asad**, Zoya seamlessly monitors Gmail, organizes messages into smart categories, and sends warm, respectful replies to selected contacts – so you never miss a beat in your inbox.
+Meet **Zoya** – your intelligent, polite, and professional email assistant powered by **n8n**, **LangChain**, and **Groq's LLaMA 3**. Designed by **Asad**, Zoya seamlessly monitors Gmail, organizes messages into smart categories, and sends warm, respectful replies to selected contacts – so you never miss a beat in your inbox.
 
 ---
 
@@ -50,7 +50,7 @@ Switch the workflow **ON**, and Zoya will start her email magic instantly!
 
 ---
 
-## 🧠 Behind the Scenes – How Zoya Works
+## 🧠 Behind the Scenes – Small Example: How Zoya Works
 
 ```mermaid
 graph TD
